@@ -13,7 +13,7 @@ let nextId = 1;
 
 
 // endpoint to post a new tea
-// first setting url where we want to proform the action, second setting the action
+// first setting url where we want to perform the action, second setting the action
 // by arrow function we can use the req and res objects
 // at last we send the response as status and data
 
